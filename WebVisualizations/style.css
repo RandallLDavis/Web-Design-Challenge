@@ -1,0 +1,14 @@
+.box {
+    height: 500px;
+    padding: 50px;
+    color: rgb(255, 255, 255);
+    background: deepskyblue;
+  }
+  
+.margin-top-80 {
+    margin-top: 80px;
+  }
+  @media (max-width: 800px) {
+.box {
+      background: rgb(87, 0, 128);
+    } 
